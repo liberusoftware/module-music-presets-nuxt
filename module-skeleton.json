@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-presets-nuxt",
+  "capabilityKey": "liberusoftware/music-presets",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-presets-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/presets.md",
+  "presentationPlan": "projects/music/nuxt/presets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
